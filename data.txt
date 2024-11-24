@@ -1,2 +1,2 @@
-query_id=
-user=
+query_id=AAGAvmcXAwAAAIC-ZxfVT-E6&user=%7B%22id%22%3A6835125888%2C%22first_name%22%3A%22Jha%22%2C%22last_name%22%3A%22%22%2C%22username%22%3A%22fx5602%22%2C%22language_code%22%3A%22en%22%2C%22allows_write_to_pm%22%3Atrue%2C%22photo_url%22%3A%22https%3A%5C%2F%5C%2Ft.me%5C%2Fi%5C%2Fuserpic%5C%2F320%5C%2FwDVttmEcmNYZw5Gccqck9YksELOaE7nnQ4Q-VDo-MwVlKPt3o-E-k58iN7_KQtIR.svg%22%7D&auth_date=1732465722&signature=4QkChXXIZmLTVFSYlcUmJEp-XnTss8OsQjt9DapfjFDydwW4TJsrV-A0DBK_PfR70jnl8ORtQrtZUqOXQ-RuCw&hash=5bfd0de1882d1f333bbd34a40bcda65773e142412b253a87f7f7483f5df64bdc
+user=%7B%22id%22%3A6835125888%2C%22first_name%22%3A%22Jha%22%2C%22last_name%22%3A%22%22%2C%22username%22%3A%22fx5602%22%2C%22language_code%22%3A%22en%22%2C%22allows_write_to_pm%22%3Atrue%2C%22photo_url%22%3A%22https%3A%5C%2F%5C%2Ft.me%5C%2Fi%5C%2Fuserpic%5C%2F320%5C%2FwDVttmEcmNYZw5Gccqck9YksELOaE7nnQ4Q-VDo-MwVlKPt3o-E-k58iN7_KQtIR.svg%22%7D
